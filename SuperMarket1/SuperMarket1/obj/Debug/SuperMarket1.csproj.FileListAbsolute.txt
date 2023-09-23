@@ -1,0 +1,8 @@
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\bin\Debug\SuperMarket1.exe.config
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\bin\Debug\SuperMarket1.exe
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\bin\Debug\SuperMarket1.pdb
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\obj\Debug\SuperMarket1.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\obj\Debug\SuperMarket1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\obj\Debug\SuperMarket1.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\obj\Debug\SuperMarket1.exe
+C:\Users\Monster\source\repos\SuperMarket1\SuperMarket1\obj\Debug\SuperMarket1.pdb
